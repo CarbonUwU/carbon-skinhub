@@ -23,8 +23,13 @@ based on [Rudj's skinhub](https://github.com/ryancranie/skinhub/tree/tyfh) 💓
 </table>
 
        
-[template 
-<a href="players/carbon/carbon,md">
-  <img src="https://a.ppy.sh/9395599"  
-       width="175"
-       height="175"></a>.]: #  
+<!---
+TEMPLATE GRID IMAGE
+  <tr>
+    <td align="center">
+      <a href="players/PSEUDO/PSEUDO.md">
+        <img src="https://a.ppy.sh/IDENTIFIANT" width="175" height="175">
+      </a>
+    </td>
+  </tr>
+--->
