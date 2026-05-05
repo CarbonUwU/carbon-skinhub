@@ -13,3 +13,8 @@ based on [Rudj's skinhub](https://github.com/ryancranie/skinhub/tree/tyfh) 💓
        height="175"></a>
 
        
+[template 
+<a href="players/carbon/carbon,md">
+  <img src="https://a.ppy.sh/9395599"  
+       width="175"
+       height="175"></a>.]: #  
