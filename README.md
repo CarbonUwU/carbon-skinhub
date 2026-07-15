@@ -38,3 +38,9 @@ TEMPLATE GRID IMAGE
     </td>
   </tr>
 --->
+
+<p align="center">
+<b>↓ other skinhubs ↓</b><br>
+<br>
+  ill add some there maybe idk<br>
+
