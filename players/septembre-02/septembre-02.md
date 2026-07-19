@@ -6,7 +6,7 @@
        height="150"></a>
 
 # [azerinobombardedytowany](https://github.com/CarbonUwU/carbon-skinhub/blob/main/players/septembre-02/azerinobombardedytowany.osk)
-[![](https://cdn.imgchest.com/files/4bcd513e5129.jpg)](https://github.com/CarbonUwU/carbon-skinhub/raw/refs/heads/main/players/septembre-02/azerinobombardedytowany.osk)
+[![](https://cdn.imgchest.com/files/4bcd513e5129.jpg)](https://github.com/CarbonUwU/carbon-skinhub/raw/main/players/septembre-02/azerinobombardedytowany.osk)
 
 # [the girl on the moon v1.5 (SUKIYE EDIT)](https://github.com/CarbonUwU/carbon-skinhub/blob/main/players/septembre-02/the%20girl%20on%20the%20moon%20v1.5%20(SUKIYE%20EDIT).osk)
 [![](https://cdn.imgchest.com/files/b5e141b90054.jpg)](https://github.com/CarbonUwU/carbon-skinhub/blob/main/players/septembre-02/the%20girl%20on%20the%20moon%20v1.5%20(SUKIYE%20EDIT).osk)
