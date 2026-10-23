@@ -1,4 +1,4 @@
-# sebastien's skinhub
+# Five Pebbles skinhub
 <p align="center">
 <a href="https://osu.ppy.sh/users/27121953">
   <img src="https://a.ppy.sh/27121953"  
