@@ -20,7 +20,7 @@ based on [Rudj's skinhub](https://github.com/ryancranie/skinhub/tree/tyfh) 💓
       </a>
     </td>
     <td align="center">
-      <a href="players/sebastien/sebastien.md">
+      <a href="players/sebastien/Five%20Pebbles.md">
         <img src="https://a.ppy.sh/27121953" width="175" height="175">
       </a>
     </td>
